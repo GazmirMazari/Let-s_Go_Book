@@ -1,0 +1,16 @@
+{
+    "gopls": {
+        "go.formatOnSave": true,
+        "go.lintOnSave": true,
+        "go.vetOnSave": true,
+        "go.buildOnSave": false,
+        "go.gopath": "${workspaceFolder}",
+        "go.useLanguageServer": true,
+        "go.docsTool": "godoc",
+        "go.coverOnSave": false,
+        "go.useCodeSnippetsOnFunctionSuggest": true,
+        "go.autocompleteUnimportedPackages": true,
+        "go.gocodeAutoBuild": false,
+        "ui.diagnostic.staticcheck": true 
+    }
+}
